@@ -1,2 +1,11 @@
 # Exclude folders that are generated when the project is built
+*/DerivedDataCache
 */Intermediate
+*/Saved
+
+# Exclude the vs folders and files
+*/.vs
+.vsconfig
+
+# Exclude the Visual Studio sln
+Metasounds.sln

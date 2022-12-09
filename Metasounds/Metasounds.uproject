@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{547493F4-4FFA-BC43-1C71-908A8BBBEE4C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Metasounds",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
